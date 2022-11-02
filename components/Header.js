@@ -64,49 +64,49 @@ export default function Header() {
                   >
                     <div className="px-1 py-1 ">
                       <Menu.Item>
-                        <a
+                        <Link
                           href="/"
                           className="bg-violet-500 text-gray-900 group flex rounded-md items-center w-full px-2 py-2 text-sm cursor-pointer"
                         >
                           <IoAlertCircleOutline className="w-5 h-5 mr-2" />
                           About
-                        </a>
+                        </Link>
                       </Menu.Item>
                       <Menu.Item>
-                        <a
+                        <Link
                           href="/education-skills"
                           className="bg-violet-500 text-gray-900 group flex rounded-md items-center w-full px-2 py-2 text-sm cursor-pointer"
                         >
                           <IoSchoolOutline className="w-5 h-5 mr-2" />
                           Education & Skills
-                        </a>
+                        </Link>
                       </Menu.Item>
                       <Menu.Item>
-                        <a
+                        <Link
                           href="/experience"
                           className="bg-violet-500 text-gray-900 group flex rounded-md items-center w-full px-2 py-2 text-sm cursor-pointer"
                         >
                           <IoBriefcaseOutline className="w-5 h-5 mr-2" />
                           Experience
-                        </a>
+                        </Link>
                       </Menu.Item>
                       <Menu.Item>
-                        <a
+                        <Link
                           href="/projects"
                           className="bg-violet-500 text-gray-900 group flex rounded-md items-center w-full px-2 py-2 text-sm"
                         >
                           <IoAlbumsOutline className="w-5 h-5 mr-2" />
                           Projects
-                        </a>
+                        </Link>
                       </Menu.Item>
                       <Menu.Item>
-                        <a
+                        <Link
                           href="/contact"
                           className="bg-violet-500 text-gray-900 group flex rounded-md items-center w-full px-2 py-2 text-sm"
                         >
                           <IoMailOutline className="w-5 h-5 mr-2" />
                           Contact
-                        </a>
+                        </Link>
                       </Menu.Item>
                     </div>
                   </Menu.Items>

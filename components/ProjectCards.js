@@ -26,7 +26,7 @@ export default function ProjectCards(props) {
   let allStacksDisplay;
   if (allStacks) {
     allStacksDisplay = allStacks.map((item) => (
-      <div className="flex items-center gap-1">
+      <div className="flex items-center gap-1" key={item.title}>
         <IoEllipse className={`${item.color}`} />
         <h1 className="text-sm">{item.title}</h1>
       </div>

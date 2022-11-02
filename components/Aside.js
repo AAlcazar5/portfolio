@@ -17,13 +17,13 @@ export default function Aside() {
       <aside className="bg-gray-50 lg:bg-white pb-4 lg:pb-0 top-0 w-full px-8 sm:px-12 md:px-16 lg:px-0 lg:w-3/12 h-full dark:bg-gray-800 ">
         <img
           src="/assets/img/profile-photo-2.jpeg"
-          alt=""
+          alt="Profile Photo"
           className="h-48 md:h-56 lg:h-60 my-4 rounded-full"
         />
         <h1 className="text-2xl font-bold">Alejandro Alcazar</h1>
         <h3 className="text-lg">AKA Alex</h3>
         <p className="py-2">
-          Software is eating the world. Don't let it eat you and hire me.
+          Software is eating the world. Don`t let it eat you and hire me.
         </p>
 
         <div className="my-2">

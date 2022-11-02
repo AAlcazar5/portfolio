@@ -56,7 +56,7 @@ export default function projects() {
       </Head>
       <Layout border="border-2">
         <h3 className="text-lg font-semibold my-4">
-          Here's what I have worked on based on my interests...
+          Here`s what I have worked on based on my interests...
         </h3>
         <div className="grid gap-4 mb-3">
           <ProjectCards
