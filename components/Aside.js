@@ -14,7 +14,7 @@ import Link from "next/link";
 export default function Aside() {
   return (
     <>
-      <aside className="bg-gray-50 lg:bg-white pb-4 lg:pb-0 top-0 w-full px-8 sm:px-12 md:px-16 lg:px-0 lg:w-3/12 h-full dark:bg-gray-800 ">
+      <aside className="lg:bg-white pb-4 lg:pb-0 top-0 w-full px-4 sm:px-12 md:px-16 lg:px-0 lg:w-3/12 h-full dark:bg-gray-800 ">
         <img
           src="/assets/img/profile-photo-2.jpeg"
           alt="Profile Photo"
@@ -47,7 +47,7 @@ export default function Aside() {
             <Link href="mailto:user@domain.com">
               <div className="flex gap-x-2 items-center">
                 <IoMailOutline className="flex-none text-gray-500" />{" "}
-                aalcazar5@proton.me
+                aalcazar1@proton.me
               </div>
             </Link>
             <div className="flex gap-x-2 items-center">

@@ -26,7 +26,7 @@ export default function contact() {
             </h3>
             <h4>
               <span className="text-sm md:text-md font-semibold">Email : </span>
-              aalcazar5@proton.me
+              aalcazar1@proton.me
             </h4>
             <h4>
               <span className="text-sm md:text-md font-semibold">
@@ -54,7 +54,7 @@ export default function contact() {
                 <span className="text-gray-900">Full Name</span>
                 <input
                   type="text"
-                  className="form-input mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
+                  className="form-input mt-1 block w-full rounded-md border-gray-300 shadow-sm dark:text-black focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
                   placeholder="John Doe 👤"
                   name="Name"
                   id="Name"
@@ -64,7 +64,7 @@ export default function contact() {
                 <span className="text-gray-900">Email Address</span>
                 <input
                   type="email"
-                  className="form-input mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
+                  className="form-input mt-1 block w-full rounded-md border-gray-300 shadow-sm dark:text-black focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
                   placeholder="user@domain.com 📩"
                   name="Email"
                   id="Email"
@@ -74,7 +74,7 @@ export default function contact() {
                 <span className="text-gray-900">Subject</span>
                 <input
                   type="text"
-                  className="form-input mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
+                  className="form-input mt-1 block w-full rounded-md border-gray-300 shadow-sm dark:text-black focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
                   placeholder="Say Hello 👋"
                   name="Subject"
                   id="Subject"
@@ -84,7 +84,7 @@ export default function contact() {
               <label className="block">
                 <span className="text-gray-900">Message</span>
                 <textarea
-                  className="form-textarea mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
+                  className="form-textarea mt-1 block w-full rounded-md border-gray-300 shadow-sm dark:text-black focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
                   rows={4}
                   placeholder="Input Message 🖋️"
                   name="Message"

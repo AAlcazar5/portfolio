@@ -15,7 +15,7 @@ export default function Index() {
   const hobbyData = {
     reading: {
       title: "Reading",
-      desc: "I am an avid reader, interested in everything from Shakespeare, Dostoevsky, Nietzshe, Huxley, Saarte, Dickens, Camus, Austen, Wilde, Orwell and Hemingway to more contemporary business works like Sapiens and Blue Ocean Strategy.",
+      desc: "I am an avid reader, interested in everything from Dostoevsky, Nietzshe, Huxley, Saarte, Camus and Orwell to more contemporary business works like Sapiens and Blue Ocean Strategy.",
     },
     workout: {
       title: "Working Out",
@@ -25,11 +25,11 @@ export default function Index() {
   const WDData = {
     wd: {
       title: "Software Developer",
-      desc: "I started my journey as a software dev with my interest in Artificial Intelligence and picked up Python, before going to learn JavaScript, Angular, React and React Native.",
+      desc: "I started my journey as a software dev with an interest in Artificial Intelligence and picked up Python, before going to learn JavaScript, Angular, React and React Native.",
     },
     flc: {
       title: "Business Owner",
-      desc: "I founded my CBD ecommerce business Potion Herb because CBD helps with my chronic aches and pains from my active lifestyle as well as anxiety. I wanted to ensure that these products are adequately targeted towards younger people like myself.",
+      desc: "I founded a CBD ecommerce business Potion Herb because CBD helps with my anxiety and chronic aches/pains from my active lifestyle. I wanted to ensure that CBD was adequately marketed towards younger people.",
     },
   };
 

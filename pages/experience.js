@@ -7,7 +7,7 @@ export default function skillsAndExperience() {
   const data = {
     potionherb: {
       title: "Potion Herb",
-      date: "Jan 2021-Present",
+      date: "Mar 2021-Present",
       role: "Owner",
       place: "Modesto, CA",
       desc: "Developed React and Shopify based CBD ecommerce web application with CRUD API, shopping cart, and payment processing",
@@ -16,14 +16,14 @@ export default function skillsAndExperience() {
     },
     gallo: {
       title: "E&J Gallo Winery",
-      date: "Jun 2020 - Jul 2021",
+      date: "Jun 2020 - Dec 2020",
       role: "Progammer Analyst",
       place: "Modesto, CA",
       desc: "Develop scripts in ServiceNow utilizing JavaScript and create Automated Test Frameworks for data validation",
     },
     global: {
       title: "Global Distributors",
-      date: "Nov 2020 - July 2021",
+      date: "Nov 2018 - July 2019",
       role: "Digital Marketing Coordinator",
       place: "Turlock, CA",
       desc: "Coordinate projects to evaluate sales trends & boost customer engagement. Implement segmentation strategy through customer database evaluation.",

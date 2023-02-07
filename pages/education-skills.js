@@ -85,10 +85,8 @@ export default function education() {
             <Pills text="Python" cname="bg-blue-100 py-1" />
             <Pills text="Django" cname="bg-gray-100 py-1" />
             <Pills text="MySQL" cname="bg-blue-100 py-1" />
-            <Pills text="PostgreSQL" cname="bg-purple-100 py-1 " />
             <Pills text="MongoDB" cname="bg-red-100 py-1" />
             <Pills text="Firebase" cname="bg-yellow-100 py-1 " />
-
             <Pills text="REST API" cname="bg-green-100 py-1 " />
           </div>
 

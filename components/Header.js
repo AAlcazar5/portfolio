@@ -160,7 +160,7 @@ export default function Header() {
         <div
           className={
             subHeader
-              ? "pt-8 gap-6 text-md xl:text-lg flex flex-col lg:flex-row justify-center transition ease-in-out duration-75"
+              ? "pt-2 gap-6 text-md xl:text-lg flex flex-col lg:flex-row justify-center transition ease-in-out duration-75"
               : "pt-2 gap-6 text-md xl:text-lg flex flex-col lg:flex-row justify-center transition ease-in-out duration-75"
           }
         >
