@@ -9,8 +9,8 @@ export default function projects() {
       title: "Potion Herb",
       subTitle: "Ecommerce Site",
       desc: "Used NextJS, JSX, TailwindCSS , JavaScript, Git, Shopify API, Firebase. This project is hosted on Vercel.",
-      link: "https://potionherb.com",
-      linkText: "Website",
+      link: "https://github.com/AAlcazar5/potion-herb",
+      linkText: "Github Repo",
       stacks: [
         { title: "NextJS", color: "text-red-200" },
         { title: "Git", color: "text-blue-200" },
