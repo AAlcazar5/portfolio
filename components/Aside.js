@@ -23,7 +23,7 @@ export default function Aside() {
         <h1 className="text-2xl font-bold">Alejandro Alcazar</h1>
         <h3 className="text-lg">AKA Alex</h3>
         <p className="py-2">
-          Software is eating the world. Don`t let it eat you and hire me.
+          Software is eating the world. Don&apos;t let it eat you and hire me.
         </p>
 
         <div className="my-2">

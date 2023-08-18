@@ -15,7 +15,7 @@ export default function Index() {
   const hobbyData = {
     reading: {
       title: "Reading",
-      desc: "I am an avid reader, interested in everything from Dostoevsky, Nietzshe, Huxley, Saarte, Camus and Orwell to more contemporary business works like Sapiens and Blue Ocean Strategy.",
+      desc: "I am an avid reader: from classics like Saarte, Nietzshe, Camus and Huxley to more contemporary business works like Sapiens and Blue Ocean Strategy.",
     },
     workout: {
       title: "Working Out",
@@ -25,7 +25,7 @@ export default function Index() {
   const WDData = {
     wd: {
       title: "Software Developer",
-      desc: "I started my journey as a software dev with an interest in Artificial Intelligence and picked up Python, before going to learn JavaScript, Angular, React and React Native.",
+      desc: "I started my journey as a software dev with an interest in Artificial Intelligence and picked up Python, before going on to learn JavaScript, Angular, React and React Native.",
     },
     flc: {
       title: "Business Owner",
@@ -41,7 +41,7 @@ export default function Index() {
       <Layout border="border-2">
         <About />
 
-        <h1 className="text-lg font-semibold my-4">What Im Doing</h1>
+        <h1 className="text-lg font-semibold my-4">What I&apos;m Doing</h1>
         <div className="grid md:grid-cols-2 gap-y-4 gap-x-2 px-4">
           <WhatDoing title={WDData.flc.title} desc={WDData.flc.desc}>
             <IoFlaskOutline className="text-blue-500 text-6xl" />

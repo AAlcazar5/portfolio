@@ -19,10 +19,10 @@ export default function contact() {
         <div className="mt-3">
           <div className="flex flex-col gap-2 px-4">
             <h2 className="text-lg font-semibold">
-              Let`s talk about everything! 🗣️
+              Let&apos;s talk about everything! 🗣️
             </h2>
             <h3 className="text-sm md:text-md">
-              Don`t like forms? Send me an email
+              Don&apos;t like forms? Send me an email
             </h3>
             <h4>
               <span className="text-sm md:text-md font-semibold">Email : </span>

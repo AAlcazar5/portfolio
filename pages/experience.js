@@ -11,8 +11,6 @@ export default function skillsAndExperience() {
       role: "Owner",
       place: "Modesto, CA",
       desc: "Developed React and Shopify based CBD ecommerce web application with CRUD API, shopping cart, and payment processing",
-      link: "https://potionherb.com",
-      linkText: "Website",
     },
     gallo: {
       title: "E&J Gallo Winery",
@@ -23,7 +21,7 @@ export default function skillsAndExperience() {
     },
     global: {
       title: "Global Distributors",
-      date: "Nov 2018 - July 2019",
+      date: "Nov 2018 - October 2019",
       role: "Digital Marketing Coordinator",
       place: "Turlock, CA",
       desc: "Coordinate projects to evaluate sales trends & boost customer engagement. Implement segmentation strategy through customer database evaluation.",
