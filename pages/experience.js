@@ -7,7 +7,7 @@ export default function skillsAndExperience() {
   const data = {
     potionherb: {
       title: "Potion Herb",
-      date: "Mar 2021-Present",
+      date: "Mar 2021-Jul 2023",
       role: "Owner",
       place: "Modesto, CA",
       desc: "Developed React and Shopify based CBD ecommerce web application with CRUD API, shopping cart, and payment processing",
