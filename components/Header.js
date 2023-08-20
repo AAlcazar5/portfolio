@@ -142,7 +142,7 @@ export default function Header() {
 
           <div className="pt-1">
             <div className="text-white text-xl flex gap-5 dark:text-white">
-              <Link href="https://www.linkedin.com/in/alejandro-alcazar-a45998103/">
+              <Link href="https://www.linkedin.com/in/alejandroalcazar1">
                 <IoLogoLinkedin className="hover:text-pink-600 cursor-pointer" />
               </Link>
               <Link href="https://github.com/AAlcazar5?tab=repositories">
