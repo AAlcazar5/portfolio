@@ -23,7 +23,7 @@ export default function Aside() {
         <h1 className="text-2xl font-bold">Alejandro Alcazar</h1>
         <h3 className="text-lg">AKA Alex</h3>
         <p className="py-2">
-          Software is eating the world. Don&apos;t let it eat you and hire me.
+          Searching for opportunies in Artificial Intelligence, Prompt Engineering, and LLMs.
         </p>
 
         <div className="my-2">
@@ -65,7 +65,7 @@ export default function Aside() {
         <div className="lg:hidden my-2">
           <h3 className="text-lg font-semibold pt-1">Social</h3>
           <div className="mt-2 mb-4 text-xl flex gap-2">
-            <Link href="https://www.linkedin.com/in/alejandro-alcazar-a45998103/">
+            <Link href="https://www.linkedin.com/in/alejandroalcazar1/">
               <IoLogoLinkedin className="hover:text-pink-600 cursor-pointer" />
             </Link>
             <Link href="https://github.com/AAlcazar5?tab=repositories">

@@ -95,12 +95,12 @@ export default function education() {
             <h3 className="text-lg font-semibold ">Tools & Frameworks </h3>
           </div>
           <div className="flex flex-wrap gap-3 my-3 text-sm md:ml-8">
-            <Pills text="TailwindCSS" cname="bg-purple-100 py-1 " />
-            <Pills text="Bulma" cname="bg-pink-100 py-1 " />
-            <Pills text="Bootstrap" cname="bg-gray-100 py-1 " />
-            <Pills text="Webpack" cname="bg-green-100 py-1 " />
-            <Pills text="Git" cname="bg-indigo-100 py-1 " />
-            <Pills text="Github" cname="bg-blue-100 py-1 " />
+            <Pills text="FastAI" cname="bg-purple-100 py-1 " />
+            <Pills text="PyTorch" cname="bg-pink-100 py-1 " />
+            <Pills text="Tensorflow" cname="bg-gray-100 py-1 " />
+            <Pills text="TailwindCSS" cname="bg-green-100 py-1 " />
+            <Pills text="Bulma" cname="bg-indigo-100 py-1 " />
+            <Pills text="Git" cname="bg-blue-100 py-1 " />
           </div>
 
           <div className="flex gap-2 items-center mt-6">
